@@ -1,6 +1,6 @@
 ## boas vindas ao meu perfil ##
 
-meu nome e' joão antonio 
+meu nome é joão antonio 
 
 estou estudando no alura.
 
